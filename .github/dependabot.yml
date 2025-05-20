@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"  # use "pip" if Python
+    directory: "/"
+    schedule:
+      interval: "daily"
